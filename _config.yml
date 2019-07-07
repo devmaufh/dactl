@@ -1,13 +1,13 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/blog/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : Devmaufh
   description                  : >
-                               this should contain a proper description
+                               Made with ❤ by 
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -26,17 +26,17 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
-  rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  fullname                  : Mauricio Flores
+  rss                       : false # generate RSS feed and show it's icon in header
+  mail                      : mau1361317@gmail.com # change to your e-mail address
+  twitter                   : Mau_Hernandez_F
+  github                    : devmaufh
+  #youtube                   : youtube-user-name
+  #stackoverflow             : stackoverflow-user-name
+  #disqus                    : #dactl # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
+  photo                     : "uploads/profile.jpg"
+  photo2x                   : "uploads/profile.jpg"
 
 
 
